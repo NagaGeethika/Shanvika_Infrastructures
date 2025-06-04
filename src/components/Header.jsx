@@ -7,7 +7,7 @@ const Header = ({ activeSection, handleNavLinkClick, isMobileMenuOpen, setIsMobi
                 <div className="flex items-center space-x-3"> {/* Added div to hold logo and title */}
                   <a href="#home" onClick={() => handleNavLinkClick('home')} className="block">
                   {/* Logo: Ensure logo.jpg is in the public folder */}
-                <img src="/logo.jpg" alt="Shanvika Infrastructures Logo" className="h-12 md:h-16 w-auto rounded-md" />
+                <img src="logo.jpg" alt="Shanvika Infrastructures Logo" className="h-12 md:h-16 w-auto rounded-md" />
                  </a>
                 <a href="#home" onClick={() => handleNavLinkClick('home')} className="text-xl md:text-2xl font-bold text-gray-800 hover:text-red-500 transition duration-300">
                   Shanvika Infrastructures

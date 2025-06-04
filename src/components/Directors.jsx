@@ -9,7 +9,7 @@ const Directors = () => {
                 {/* Director's Photo */}
                 <div className="mb-8 flex justify-center"> {/* Centering container for the image */}
                     <img
-                        src="/rajeswari.jpg" // Path to the image in the public folder
+                        src="rajeswari.jpg" // Path to the image in the public folder
                         alt="Mrs. O. Rajeswari - Director"
                         className="w-48 h-48 object-cover rounded-full shadow-lg border-4 border-white" // Styling for the image
                     />

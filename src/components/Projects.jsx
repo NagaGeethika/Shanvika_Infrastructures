@@ -6,37 +6,37 @@ const Projects = () => {
             name: 'Shanvika Residency',
             category: 'Residential',
             description: 'A modern apartment complex offering comfortable living spaces and amenities.',
-            image:"/Residency.jpg"
+            image:"Residency.jpg"
         },
         {
             name: 'Shanvika Nilayam',
             category: 'Residential',
             description: 'A custom-built individual house designed for luxury and comfort.',
-            image: '/house.jpg'
+            image: 'house.jpg'
         },
         {
             name: 'Shanvika Plaza',
             category: 'Commercial',
             description: 'A state-of-the-art commercial complex with retail and office spaces.',
-            image: '/p3.jpg'
+            image: 'p3.jpg'
         },
         {
             name: 'Shanvika Office Interiors',
             category: 'Interior',
             description: 'Modern and ergonomic interior design for a corporate office space.',
-            image: '/ofc.jpg'
+            image: 'ofc.jpg'
         },
         {
             name: 'Shanvika Industrial Hub',
             category: 'Industrial',
             description: 'A robust industrial facility designed for efficiency and durability.',
-            image: '/ind.jpg'
+            image: 'ind.jpg'
         },
         {
             name: 'Shanvika Home Renovation',
             category: 'Renovation',
             description: 'Complete home renovation transforming an old house into a contemporary home.',
-            image: '/ren.jpg'
+            image: 'ren.jpg'
         },
     ];
 

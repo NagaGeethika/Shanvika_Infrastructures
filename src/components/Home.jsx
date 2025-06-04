@@ -5,7 +5,7 @@ const Home = () => {
         <section
             id="home"
             className="relative bg-cover bg-center h-screen flex items-center justify-center text-white"
-            style={{ backgroundImage: `url('/home-bg.jpg')` }} // Updated background image
+            style={{ backgroundImage: `url('home-bg.jpg')` }} // Updated background image
         >
             {/* Overlay to make text readable */}
             <div className="absolute inset-0 bg-black opacity-60"></div>
